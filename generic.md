@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2) I've got you a book!"
-description: "<a href='https://en.wikipedia.org/wiki/Designed_by_Apple_in_California'>This book</a>"
+description: "Designed by Apple in California"
 image: assets/images/hero_flat_books_medium_2x.jpg
 nav-menu: true
 ---
