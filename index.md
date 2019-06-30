@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Xian-Zhi ZHANG'
+landing-title: 'Hi, Xian-Zhi! Enjoying your hike so far?'
 description: null
 image: null
 author: null
