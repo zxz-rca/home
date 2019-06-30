@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2) I've got you a book!"
+title: '2) I've got you a book!'
 description: [This book](https://en.wikipedia.org/wiki/Designed_by_Apple_in_California)
 image: assets/images/hero_flat_books_medium_2x.jpg
 nav-menu: true
