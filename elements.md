@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: "1) xzhi.fr is yours! Make good use of it!"
 nav-menu: true
 ---
 
