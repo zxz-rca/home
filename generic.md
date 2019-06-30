@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: 2) I've got you a book!
+description: [This book](https://en.wikipedia.org/wiki/Designed_by_Apple_in_California)
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
